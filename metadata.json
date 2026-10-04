@@ -1,0 +1,5 @@
+{
+  "name": "Exam Availability Portal",
+  "description": "A centralized system for students to submit exam schedules and for faculty to verify exam availability efficiently.",
+  "requestFramePermissions": []
+}
